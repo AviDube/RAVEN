@@ -1,11 +1,11 @@
 [submodule "AirStack"]
 	path = AirStack
-	url = https://github.com/castacks/AirStack.git
+	url = https://github.com/AviDube/AirStack.git
 	branch = raven
 
 [submodule "RayFronts"]
 	path = RayFronts
-	url = https://github.com/seungchan-kim/RayFronts.git
+	url = https://github.com/AviDube/RayFronts.git
 	branch = raven
 [submodule "LVLM"]
 	path = LVLM
